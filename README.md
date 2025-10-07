@@ -16,11 +16,10 @@
 ### 🚀 Sobre mí
 
 Soy **Axell Ramírez**, un entusiasta de la informática y las tecnologías emergentes.  
-Me gusta **aprender, experimentar y crear soluciones** que unan la **programación, el hardware y la innovación**.  
-Actualmente me enfoco en fortalecer mis conocimientos en **desarrollo web (front-end)**, **Arduino**, **Python** y **C++**.
+Me apasiona aprender, experimentar y desarrollar soluciones que unan **software, hardware y creatividad**.  
 
-💡 Creo firmemente que la mejor forma de aprender es **construyendo cosas reales**.  
-🎯 Mi meta es seguir creciendo como desarrollador y aportar ideas que hagan una diferencia.
+💡 Mi objetivo es seguir creciendo como desarrollador, combinando el **diseño web**, la **lógica de programación** y la **automatización con Arduino y C++**.  
+✨ Para mí, la tecnología es una forma de transformar ideas en herramientas útiles para las personas.
 
 ---
 
@@ -32,10 +31,25 @@ Actualmente me enfoco en fortalecer mis conocimientos en **desarrollo web (front
 
 ---
 
-### 🌱 Actualmente estoy...
-- Desarrollando proyectos personales como **wikizero**, **sistema de entrada y salida**, y **condensa agua**  
-- Aprendiendo más sobre **interfaces modernas** y **optimización de código**  
-- Mejorando mis habilidades de **diseño front-end** y **lógica de programación**
+### 🧠 Aprendizaje y evolución
+
+Siempre busco aprender algo nuevo y mejorar en cada proyecto que hago.  
+Actualmente estoy enfocado en:
+
+- Profundizar en **JavaScript moderno** y **frameworks front-end**  
+- Dominar la integración entre **hardware (Arduino)** y **software (Python/C++)**  
+- Practicar buenas prácticas de **versionamiento con Git y GitHub**  
+- Explorar conceptos de **IoT**, **UX/UI** y **optimización de rendimiento web**  
+
+---
+
+### 🧩 Mi enfoque al crear proyectos
+
+1. **Identificar un problema real** o una necesidad concreta  
+2. **Prototipar rápido** con herramientas simples y efectivas  
+3. **Combinar software y hardware** cuando la idea lo permite  
+4. **Iterar y mejorar** basándome en pruebas reales  
+5. **Documentar bien** para compartir el aprendizaje con otros
 
 ---
 
@@ -49,16 +63,8 @@ Actualmente me enfoco en fortalecer mis conocimientos en **desarrollo web (front
 
 ---
 
-### 📊 Estadísticas
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AxellRamirez&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxellRamirez&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 🤝 Conectemos
+
 📬 **[LinkedIn](https://www.linkedin.com/in/axell-ram%C3%ADrez-solano-9b6473354/)**  
 ⭐ [**GitHub**](https://github.com/AxellRamirez)
 
