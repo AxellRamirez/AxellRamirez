@@ -57,9 +57,9 @@ Actualmente estoy enfocado en:
 
 | Proyecto | Descripción | Tecnologías |
 |-----------|--------------|--------------|
-| [**wikizero**](https://github.com/AxellRamirez/wikizero) | Wiki minimalista para gestionar y consultar información fácilmente. | Python · Web |
-| [**sistema-entrada-salida**](https://github.com/AxellRamirez/sistema-entrada-salida) | Control de acceso y registro de entradas/salidas. | C++ · Arduino |
-| [**condensa-agua**](https://github.com/AxellRamirez/condensa-agua) | Proyecto IoT para condensar y recolectar agua del aire. | Arduino · Sensores |
+| [**WikiZero**](https://github.com/AxellRamirez/wikizero) | Wiki minimalista para gestionar y consultar información fácilmente. | Python · Web |
+| [**Sistema-entrada-salida**](https://github.com/AxellRamirez/sistema-entrada-salida) | Control de acceso y registro de entradas/salidas. | C++ · Arduino |
+| [**MistCatcher**](https://github.com/AxellRamirez/condensa-agua) | Proyecto IoT para condensar y recolectar agua del aire. | Arduino · Sensores |
 
 ---
 
